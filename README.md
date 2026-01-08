@@ -17,9 +17,6 @@ I am a maker of things focused on bridging the gap between robust system archite
 | **Infrastructure** | Docker, Linux SysAdmin, AWS/GCP, Wireguard, Tailscale, Netbird, BGP |
 | **Tools** | Git, CI/CD Pipelines, tmux, Nginx |
 
-### 📈 GitHub Stats
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zethrus&show_icons=true&theme=transparent)
-
 ---
 
 ### 📫 How to reach me
