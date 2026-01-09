@@ -20,7 +20,7 @@ I am a maker of things focused on bridging the gap between robust system archite
 ---
 
 ### 📫 How to reach me
-* **Twitter/X**: [@TheZethrus]
-* **Portfolio**: [zethr.us/portfolio (coming soon)]
+* **Twitter/X**: [@TheZethrus](https://x.com/TheZethrus)
+* **Email**: [contact@zethr.us](mailto:contact@zethr.us)
 
 *"Building thoughtful systems that scale, one commit at a time."*
