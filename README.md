@@ -6,8 +6,8 @@ I am a maker of things focused on bridging the gap between robust system archite
 ---
 
 ### 🔭 Currently Working On
-* **[@BootKode](https://github.com/BootKode)**: [I do full-stack web development for BootKode clients.]
-* **[@Aerosyne](https://github.com/Aerosyne)**: [System administrator and lead developer for Aerosyne, an upcoming aerial business operations platform.]
+* **[@BootKode](https://github.com/BootKode)**: - I do full-stack web development for BootKode clients.
+* **[@Aerosyne](https://github.com/Aerosyne)**: - System administrator and lead developer for Aerosyne, an upcoming aerial business operations platform.
 
 ### 🛠️ Technical Toolkit
 
